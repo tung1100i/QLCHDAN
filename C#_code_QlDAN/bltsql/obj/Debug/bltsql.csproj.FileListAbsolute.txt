@@ -1,0 +1,135 @@
+C:\Users\H\source\repos\bltsql\bltsql\bin\Debug\bltsql.exe.config
+C:\Users\H\source\repos\bltsql\bltsql\bin\Debug\bltsql.exe
+C:\Users\H\source\repos\bltsql\bltsql\bin\Debug\bltsql.pdb
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Form1.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Form2.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Properties.Resources.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.csproj.GenerateResource.cache
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.csproj.CoreCompileInputs.cache
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.exe
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.pdb
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Form3.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Form4.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Form5.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Form6.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Form7.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.qlhoadon.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.qlkhachhang.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.qlnhanvien.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.qlnhapkho.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.qlsanpham.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.doimatkhau.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.view1.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Ham1.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.Ham2.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.thutuc1.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.thutuc2.resources
+C:\Users\H\source\repos\bltsql\bltsql\obj\Debug\bltsql.csprojAssemblyReference.cache
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\bin\Debug\bltsql.exe.config
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\bin\Debug\bltsql.exe
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\bin\Debug\bltsql.pdb
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.csprojAssemblyReference.cache
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.doimatkhau.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Form1.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Form2.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Form3.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Form4.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Form5.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Form6.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Form7.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Ham1.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Ham2.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.Properties.Resources.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.qlhoadon.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.qlkhachhang.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.qlnhanvien.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.qlnhapkho.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.qlsanpham.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.thutuc1.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.thutuc2.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.view1.resources
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.csproj.GenerateResource.cache
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.csproj.CoreCompileInputs.cache
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.exe
+C:\Users\H\Desktop\báo cáo bài tập lớn\bltsql\bltsql\obj\Debug\bltsql.pdb
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\bin\Debug\bltsql.exe.config
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\bin\Debug\bltsql.exe
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\bin\Debug\bltsql.pdb
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.csprojAssemblyReference.cache
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.doimatkhau.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Form1.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Form2.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Form3.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Form4.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Form5.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Form6.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Form7.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Ham1.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Ham2.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.Properties.Resources.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.qlhoadon.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.qlkhachhang.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.qlnhanvien.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.qlnhapkho.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.qlsanpham.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.thutuc1.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.thutuc2.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.view1.resources
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.csproj.GenerateResource.cache
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.csproj.CoreCompileInputs.cache
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.exe
+D:\HQTCSDL\hệ quản trị cơ sở dữ liệu\hệ quản trị cơ sở dữ liệu\bltsql\bltsql\obj\Debug\bltsql.pdb
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\bin\Debug\bltsql.exe.config
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\bin\Debug\bltsql.exe
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\bin\Debug\bltsql.pdb
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.csprojAssemblyReference.cache
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.doimatkhau.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Form1.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Form2.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Form3.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Form4.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Form5.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Form6.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Form7.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Ham1.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Ham2.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.Properties.Resources.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.qlhoadon.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.qlkhachhang.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.qlnhanvien.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.qlnhapkho.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.qlsanpham.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.thutuc1.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.thutuc2.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.view1.resources
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.csproj.GenerateResource.cache
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.csproj.CoreCompileInputs.cache
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.exe
+D:\HQTCSDL\BTL_HQTCSDL\C#_code\bltsql\obj\Debug\bltsql.pdb
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\bin\Debug\bltsql.exe.config
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\bin\Debug\bltsql.exe
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\bin\Debug\bltsql.pdb
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.csproj.AssemblyReference.cache
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.doimatkhau.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Form1.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Form2.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Form3.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Form4.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Form5.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Form6.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Form7.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Ham1.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Ham2.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.Properties.Resources.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.qlhoadon.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.qlkhachhang.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.qlnhanvien.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.qlnhapkho.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.qlsanpham.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.thutuc1.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.thutuc2.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.view1.resources
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.csproj.GenerateResource.cache
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.csproj.CoreCompileInputs.cache
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.exe
+D:\Downloads\BTL_HQTCSDL_Nhom9_60TH3\C#_code_QlDAN\bltsql\obj\Debug\bltsql.pdb
