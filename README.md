@@ -1,1 +1,1 @@
-# QLCHDAN by C#
+# QLCHDAN with C#
